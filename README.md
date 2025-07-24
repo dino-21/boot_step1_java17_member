@@ -9,7 +9,7 @@ boot_step1_java17_member
 
 
 
-## MySQL member 
+## MySQL member ##
 -- member 데이터베이스를 생성
 -- 기본 문자 세트는 utf8mb4로 설정
 -- 기본 콜레이션은 utf8mb4_general_ci로 설정
@@ -33,4 +33,4 @@ insert into member(member_id, address, age, name, phone) values('23', '심양', 
 insert into member(member_id, address, age, name, phone) values('24', '심양', 29, '장비', '010-9999-9999');
 
 
-##
+
